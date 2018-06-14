@@ -18,10 +18,6 @@ import caffe
 caffe.set_device(0)
 caffe.set_mode_gpu()
 
-# model_def = './models/VGGNet/text/text_polygon_orn_inception_wider2_syn_msra_384x384/deploy.prototxt'
-# model_weights = './models/VGGNet/text/text_polygon_orn_inception_wider2_syn_msra_384x384/VGG_text_text_polygon_orn_inception_wider2_syn_msra_384x384_iter_10500.caffemodel'
-# model_def = './models/coco/deploy_coco.prototxt'
-# model_weights = './models/coco/VGG_text_text_polygon_orn_coco_384x384_iter_40000.caffemodel'
 model_def = './models/ic15/deploy_ic15.prototxt'
 model_weights = './models/ic15/ic15.caffemodel'
 net = caffe.Net(model_def,	 # defines the structure of the model
