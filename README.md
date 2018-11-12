@@ -16,7 +16,8 @@ Please cite the related works in your publications if it helps your research:
 
 ## Models
 1. model trained on ICDAR 2015 Incidental Text  
-[BaiduYun](https://pan.baidu.com/s/1ZqVyCy8AJ44HE89JV4PjeA)
+[BaiduYun](https://pan.baidu.com/s/1ZqVyCy8AJ44HE89JV4PjeA)          
+[Google Drive](https://drive.google.com/file/d/1M7BWVIs0lDssuuJz3-fCMCNrTkzo8ykG/view?usp=sharing)
 
 Training of other models are in progress.
 
